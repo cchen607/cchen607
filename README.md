@@ -48,7 +48,7 @@ All the R code and data files necessary for the analysis can be found in the rep
 
 Email: christopherchen216@gmail.com
 
-GitHub: [https://github.com/github_username/repo_name](https://github.com/cchen607)
+GitHub: [https://github.com/cchen607](https://github.com/cchen607)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
