@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-## Hello! My name is Christopher Chen.
+# Hello! My name is Christopher Chen. 👋
 
 I have a Bachelor's degree in Economics and minor in Statistics from the University of California, Riverside. I am now based in the San Francisco Bay Area. I have interests in econometrics and data analysis! 
   - I’m currently looking for a job and working on individual research ventures.
@@ -33,7 +33,7 @@ Please feel free to explore my projects! My most recent work is pinned.
 
 
 <!-- ABOUT THE PROJECT -->
-## Preview My Capstone Poster Presentation.
+## Capstone Poster Presentation Preview.
 
 Presented at the PREDOC Research Conference in Washington, D.C., in August 2025.
 
