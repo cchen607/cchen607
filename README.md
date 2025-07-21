@@ -7,6 +7,7 @@ I have a Bachelor's degree in Economics and minor in Statistics from the Univers
   - My skills/languages include **R, STATA, and Python**.
   - Some hobbies: music, playing various instruments, going out into nature, and cooking.
 
+
 ![rstudioide](https://img.shields.io/badge/RStudio-000000?style=for-the-badge&logo=rstudioide&logoColor=#75AADB)
 ![](https://img.shields.io/badge/Stata-000000?style=for-the-badge&logo=Stata&logoColor=blue)
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=#3776AB)
