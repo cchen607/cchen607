@@ -29,7 +29,9 @@ I have a Bachelor's degree in Economics and minor in Statistics from the Univers
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Preview My Capstone Poster Presentation.
+
+Presented at the PREDOC Research Conference in Washington, D.C., in August 2025.
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
