@@ -5,7 +5,8 @@
 I have a Bachelor's degree in Economics and minor in Statistics from the University of California, Riverside. I am now based in the San Francisco Bay Area. I have interests in econometrics and data analysis! 
   - I’m currently looking for a predoctoral research position in Economics.
   - Also, working on independent research ventures involving sentiment analysis and LLMs.
-  - My skills/languages include **R, STATA, and Python**.
+  - The languages I use most often are **R, STATA, and Python**.
+  - My skills include: Data Manipulation/Visualization, Regression Analysis, Statistical Modeling, Forecasting, Web Scraping, and Sentiment analysis.
   - Some hobbies: music, playing various instruments, going out into nature, and cooking.
 
 Please feel free to explore my projects! My most recent work is pinned.
