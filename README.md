@@ -37,7 +37,9 @@ Please feel free to explore my projects! My most recent work is pinned.
 
 Presented at the PREDOC Research Conference in Washington, D.C., in August 2025.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Honors Poster][poster]](https://github.com/cchen607/HonorsCapstone)
+![PREDOC][predoc]
+![World Bank Group][worldbank]
 
 All the R code and data files necessary for the analysis can be found in the repository. The full paper and slides presentation are also included.
 
@@ -56,4 +58,6 @@ GitHub: [https://github.com/cchen607](https://github.com/cchen607)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: images/poster.png
+[poster]: images/poster.png
+[predoc]: images/predoc.png
+[worldbank]: images/worldbank.png
