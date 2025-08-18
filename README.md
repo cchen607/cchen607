@@ -7,7 +7,7 @@ I have a Bachelor's degree in Economics and minor in Statistics from the Univers
   - Also, working on independent research ventures involving **sentiment analysis and LLMs**.
   - The languages I use most often are **R, STATA, and Python**.
   - **Skills:** Data Manipulation/Visualization, Regression Analysis, Statistical Modeling, Forecasting, Web Scraping.
-  - **Hobbies:** Music, playing various instruments, going out into nature, and cooking.
+  - **Hobbies:** Music, playing various instruments, going out into nature, rock-climbing, and cooking.
 
 Please feel free to explore my projects! My most recent work is pinned.
 
@@ -54,7 +54,11 @@ All the R code and data files necessary for the analysis can be found in the rep
 
 Email: christopherchen216@gmail.com
 
+LinkedIn: [www.linkedin.com/in/christopherchen607](www.linkedin.com/in/christopherchen607)
+
 GitHub: [https://github.com/cchen607](https://github.com/cchen607)
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
