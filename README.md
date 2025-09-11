@@ -7,7 +7,7 @@ I have a Bachelor's degree in Economics and minor in Statistics from the Univers
   - Also, working on independent research ventures involving **sentiment analysis and LLMs**.
   - The languages I use most often are **R, STATA, and Python**.
   - **Skills:** Data Manipulation/Visualization, Regression Analysis, Statistical Modeling, Forecasting, Web Scraping.
-  - **Hobbies:** Music, playing various instruments, going out into nature, rock-climbing, and cooking.
+  - **Hobbies:** Music, playing various instruments, going out into nature, drumming, rock-climbing, and cooking.
 
 Please feel free to explore my projects! My most recent work is pinned.
 
