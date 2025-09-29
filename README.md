@@ -40,7 +40,7 @@ Please feel free to explore my projects! My most recent work is pinned.
 <!-- ABOUT PROJECTS -->
 
 ## Current Project
-Working on analyzing micropolitical climates across UC campuses through subreddit discussions. Skills involved: data exploration, visualizations sentiment analysis, LLMs, webscraping.
+Working on analyzing micropolitical climates across UC campuses through subreddit discussions. Skills involved: data exploration, visualizations sentiment analysis, LLMs, webscraping. Working on it with fellow Highlander Sean Saito (https://github.com/Seat0).
 <div align="center">
   <img src="images/reddit.png" height="100">
   <img src="images/UC.png" height="100">
