@@ -40,20 +40,20 @@ Please feel free to explore my projects! My most recent work is pinned.
 <!-- ABOUT PROJECTS -->
 
 ## Current Project
-Working on analyzing micropolitical climates across UC campuses through subreddit discussions. Skills involved: data exploration, visualizations sentiment analysis, LLMs, webscraping. Working on it with fellow Highlander [Sean Saito](https://github.com/Seat0).
+Working on analyzing micropolitical climates across UC campuses through subreddit discussions. Skills involved: data exploration, visualizations sentiment analysis, LLMs, webscraping. Working on it with fellow Highlander [Sean Saito](https://github.com/Seat0). Below are some early visualizations of the data, made in R.
 <div align="center">
-  <img src="images/reddit.png" height="100">
+  <img src="images/uc_upvote_ratio.png" height="250">
+  <img src="images/allUCwordcloud.png" height="250">
+  <br />
+  <img src="images/reddit.png" height="100" >
   <img src="images/UC.png" height="100">
+  <br />
 </div>
 
 <h3 align="center">UC Reddit Analysis</h3>
+
   <p align="center">
-    Here are some early visualizations of the data, made in R.
-    <br />
-    <img src="images/uc_upvote_ratio.png" height="250">
-    <img src="images/allUCwordcloud.png" height="250">
-    <br />
-    Check it out.
+    Feel free to check out some of the work in progress here.
     <br />
     <a href="https://github.com/cchen607/UC-subreddits"><strong>Link to Repository »</strong></a>
     <br />
