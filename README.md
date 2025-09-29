@@ -48,7 +48,7 @@ Working on analyzing micropolitical climates across UC campuses through subreddi
 
 <h3 align="center">UC Reddit Analysis</h3>
   <p align="center">
-    Here are some prelimary visualizations.
+    Here are some early visualizations of the data, made in R.
     <br />
     <img src="images/uc_upvote_ratio.png" height="300">
     <img src="images/allUCwordcloud.png" height="300">
