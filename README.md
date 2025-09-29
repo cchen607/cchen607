@@ -50,8 +50,8 @@ Working on analyzing micropolitical climates across UC campuses through subreddi
   <p align="center">
     Here are some prelimary visualizations.
     <br />
-    <img src="images/uc_upvote_ratio.png" height="150">
-    <img src="allUCwordcloud.png" height="150">
+    <img src="images/uc_upvote_ratio.png" height="300">
+    <img src="images/allUCwordcloud.png" height="300">
     <br />
     Check it out.
     <br />
