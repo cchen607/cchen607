@@ -17,6 +17,8 @@ Please feel free to explore my projects! My most recent work is pinned.
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=#3776AB)
 
 <!-- PROJECT LOGO -->
+
+
 <br />
 <div align="center">
   <a href="https://github.com/cchen607/HonorsCapstone">
@@ -35,8 +37,25 @@ Please feel free to explore my projects! My most recent work is pinned.
 
 
 
-<!-- ABOUT THE PROJECT -->
-## My Capstone Poster Presentation.
+<!-- ABOUT PROJECTS -->
+
+## Current Project
+Working on analyzing micropolitical climates across UC campuses through subreddit discussions. Skills involved: data exploration, visualizations sentiment analysis, LLMs, webscraping.
+<div align="center">
+  <img src="images/reddit.png" height="100">
+  <img src="images/UC.png" height="100">
+</div>
+
+<h3 align="center">UC Reddit Analysis</h3>
+  <p align="center">
+    Check it out.
+    <br />
+    <a href="https://github.com/cchen607/UC-subreddits"><strong>Link to Repository »</strong></a>
+    <br />
+  </p>
+</div>
+
+## Capstone Poster Presentation
 Presented at the PREDOC Research Conference in Washington, D.C., in August 2025.
 
 <div align="center">
@@ -50,7 +69,10 @@ All the R code and data files necessary for the analysis can be found in the rep
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 <!-- CONTACT -->
+
+
 ## Contact
 
 Email: christopherchen216@gmail.com
