@@ -45,6 +45,9 @@ Working on analyzing micropolitical climates across UC campuses through subreddi
   <img src="images/uc_upvote_ratio.png" height="250">
   <img src="images/allUCwordcloud.png" height="250">
   <br />
+  <img src="images/categorypostresponse.png" height="250">
+  <img src="images/categorysentiment.png" height="250">
+  <br />
   <img src="images/reddit.png" height="100" >
   <img src="images/UC.png" height="100">
   <br />
